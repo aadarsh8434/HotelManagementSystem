@@ -157,3 +157,6 @@ java -cp ".;lib/*;src" TestUI
 **Aadarsh Ranjan**
 
 Built as a Java + MySQL learning project to understand desktop application development, database integration, and CRUD operations.
+
+<img width="1232" height="811" alt="Screenshot 2026-06-21 123143" src="https://github.com/user-attachments/assets/af52fe5e-abd1-4809-9f34-3062043243f0" />
+
